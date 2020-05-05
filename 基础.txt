@@ -1,0 +1,8 @@
+linux命令
+ll查看 ls查看 pwd查看当前路径 cp复制 mv移动 cat查看路径 mkdir创建目录 vim编辑文件 cd跳转目录 ps查看进程
+php数组函数
+array 定义一个数组 count 查看数组个数 isset查看给定键是否在数组 array_keys获取数组所有键 array_values获取数组所有值
+in_array 给定值是否在数组 array_push末尾添加 array_pop删除数组最后一个元素 array_shift删除数组第一个元素 array_unshift 数组开头插入一个元素
+php字符串函数
+md5 加密 sha1 加密 max 最大值 min 最小值 strpos搜索指定字符 str_replace替换 strlen长度 expload指定字符拆 分数组
+implode 将数组链接成字符串 trim过滤字符串两端 
